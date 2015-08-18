@@ -1,0 +1,29 @@
+From jonas.wolz at freenet.de  Fri Aug 17 11:16:11 2007
+From: jonas.wolz at freenet.de (Jonas Wolz)
+Date: Fri, 17 Aug 2007 11:16:11 +0200
+Subject: [Fetchtowebmail-announce] fetchtowebmail 0.3.5 released
+Message-ID: <200708171116.12032.jonas.wolz@freenet.de>
+
+Gestern wurde die neue Version 0.3.5 von fetchtowebmail veröffentlicht.
+
+Source code:
+http://prdownload.berlios.de/fetchtowebmail/fetchtowebmail-0.3.5.tar.gz
+
+Windows-EXE:
+http://prdownload.berlios.de/fetchtowebmail/fetchtowebmail-win32exe-0.3.5.zip
+
+Änderungen in dieser Version:
+- fetchtowebmail unterstützt es jetzt, bestimmte Fehlermeldungen des 
+SMTP-Servers, an den Mails weitergeleitet werden zu ignorieren (z.B. falls 
+dieser SPAM und Virusmails sofort ablehnt)
+- Die Mails werden jetzt in genau der Reihenfolge abgeholt und weitergeleitet, 
+in der sie auch auf dem T-Onlineserver empfangen wurden
+
+
+Für weitere Informationen über fetchtowebmail besuchen Sie bitte die Homepage 
+unter http://fetchtowebmail.berlios.de
+
+Mit freundlichen Grüßen,
+Jonas Wolz
+
+

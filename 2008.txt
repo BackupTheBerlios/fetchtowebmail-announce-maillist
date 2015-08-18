@@ -1,0 +1,55 @@
+From jonas.wolz at freenet.de  Wed Feb 27 19:54:08 2008
+From: jonas.wolz at freenet.de (Jonas Wolz)
+Date: Wed, 27 Feb 2008 19:54:08 +0100
+Subject: [Fetchtowebmail-announce] fetchtowebmail 0.3.6 released
+Message-ID: <200802271954.08930.jonas.wolz@freenet.de>
+
+Gestern wurde die neue Version 0.3.6 von fetchtowebmail veröffentlicht.
+
+Source code:
+http://prdownload.berlios.de/fetchtowebmail/fetchtowebmail-0.3.6.tar.gz
+
+Windows-EXE:
+http://prdownload.berlios.de/fetchtowebmail/fetchtowebmail-win32exe-0.3.6.zip
+
+Änderungen in dieser Version:
+- Kleine Änderungen zur Anpassung an Änderungen von T-Online
+  => Bitte melden, falls ich etwas übersehen haben sollte!
+
+
+Für weitere Informationen über fetchtowebmail besuchen Sie bitte die Homepage 
+unter http://fetchtowebmail.berlios.de
+
+Mit freundlichen Grüßen,
+Jonas Wolz
+
+
+
+From jonas.wolz at freenet.de  Thu Sep  4 09:56:00 2008
+From: jonas.wolz at freenet.de (Jonas Wolz)
+Date: Thu, 4 Sep 2008 09:56:00 +0200
+Subject: [Fetchtowebmail-announce] fetchtowebmail 0.3.7 released
+Message-ID: <200809040956.01276.jonas.wolz@freenet.de>
+
+Heute wurde die neue Version 0.3.7 von fetchtowebmail veröffentlicht.
+
+Source code:
+http://prdownload.berlios.de/fetchtowebmail/fetchtowebmail-0.3.7.tar.gz
+
+Windows-EXE:
+http://prdownload.berlios.de/fetchtowebmail/fetchtowebmail-win32exe-0.3.7.zip
+
+Änderungen in dieser Version:
+- Ein Bugfix für den MDA-Modus (Danke an Jochen Eisinger)
+- Eine neue Kommandozeilenoption, um die Überprüfung von SSL-Zertifikaten
+  zu deaktivieren.
+
+
+Für weitere Informationen über fetchtowebmail besuchen Sie bitte die Homepage 
+unter http://fetchtowebmail.berlios.de
+
+Mit freundlichen Grüßen,
+Jonas Wolz
+
+
+

@@ -1,0 +1,53 @@
+From jonas.wolz at freenet.de  Tue Apr 13 18:28:51 2010
+From: jonas.wolz at freenet.de (Jonas Wolz)
+Date: Tue, 13 Apr 2010 18:28:51 +0200
+Subject: [Fetchtowebmail-announce] =?utf-8?q?fetchtowebmail_und_neueste_?=
+	=?utf-8?q?=C3=84nderungen_durch_T-Online?=
+Message-ID: <201004131828.52141.jonas.wolz@freenet.de>
+
+Hallo,
+
+wie einige bereits bemerkt haben, hat T-Online vor kurzem die Oberfläche des 
+Webmail-Frontends umgestellt.
+
+Dadurch funktioniert fetchtowebmail im Moment *nicht* mehr.
+
+Wie viel Umstellungsaufwand das verursachen wird bzw. wie ich damit umgehe, 
+muss ich (wahrscheinlich am nächsten Wochenende) noch untersuchen.
+Sobald das geklärt ist, werde ich eine weitere Mail verschicken.
+
+
+Viele Grüße
+Jonas Wolz
+
+
+
+From jwolz at freenet.de  Thu Apr 15 18:45:16 2010
+From: jwolz at freenet.de (Jonas Wolz)
+Date: Thu, 15 Apr 2010 18:45:16 +0200
+Subject: [Fetchtowebmail-announce] fetchtowebmail 0.3.8a released
+Message-ID: <201004151845.17092.jwolz@freenet.de>
+
+Hallo,
+
+wie ein aufmerksamer User angemerkt hat (danke Datafreak!), ist das alte 
+Interface von T-Online momentan noch unter einer anderen Adresse zu 
+erreichen.
+
+Ich habe daher in fetchtowebmail die Start-URL angepasst, so dass das Programm 
+vorerst wieder funktionieren sollte.
+
+Download der neuen Version 0.3.8a:
+
+Source Code:
+http://prdownload.berlios.de/fetchtowebmail/fetchtowebmail-0.3.8a.tar.gz
+
+Windows-EXE:
+http://prdownload.berlios.de/fetchtowebmail/fetchtowebmail-win32exe-0.3.8a.zip
+
+
+Viele Grüße
+Jonas Wolz
+
+
+

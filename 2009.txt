@@ -1,0 +1,25 @@
+From jonas.wolz at freenet.de  Sun May 17 10:04:42 2009
+From: jonas.wolz at freenet.de (Jonas Wolz)
+Date: Sun, 17 May 2009 10:04:42 +0200
+Subject: [Fetchtowebmail-announce] fetchtowebmail 0.3.8 released
+Message-ID: <200905171004.42941.jonas.wolz@freenet.de>
+
+Heute wurde die neue Version 0.3.8 von fetchtowebmail veröffentlicht.
+
+Source code:
+http://prdownload.berlios.de/fetchtowebmail/fetchtowebmail-0.3.8.tar.gz
+
+Windows-EXE:
+http://prdownload.berlios.de/fetchtowebmail/fetchtowebmail-win32exe-0.3.8.zip
+
+Änderungen in dieser Version:
+- Anpassungen an die aktuellen Änderungen von T-Online
+- Korrektur für die korrekte Erkennung der spamorvirusresponse bei Exim
+
+Für weitere Informationen über fetchtowebmail besuchen Sie bitte die Homepage 
+unter http://fetchtowebmail.berlios.de
+
+Mit freundlichen Grüßen,
+Jonas Wolz
+
+
